@@ -33,6 +33,10 @@ https://vendosmart-assignment.vercel.app/
 **Tech Stack:** ReactJs, Lodash
 
 
+## Youtube Link
+https://youtu.be/RQvwKG_kfBU
+
+
 ## Authors
 
 - [Aditya Yaduvanshi](https://adityayads.vercel.app/)
